@@ -1,8 +1,8 @@
 <?php
 
    $db_name = 'mysql:host=localhost:3306;dbname=rscoaqdm_course_db';
-   $user_name = 'rscoaqdm_rahul';
-   $user_password = 'jMJhc?1Cg_ig';
+   $user_name = 'your username';
+   $user_password = 'your password';
 
    $conn = new PDO($db_name, $user_name, $user_password);
 
