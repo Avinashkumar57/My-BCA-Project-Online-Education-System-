@@ -1,6 +1,6 @@
 <?php
 
-   $db_name = 'mysql:host=localhost:3306;dbname=rscoaqdm_course_db';
+   $db_name = 'mysql:host=localhost:3306;dbname=yourdb name';
    $user_name = 'your username';
    $user_password = 'your password';
 
